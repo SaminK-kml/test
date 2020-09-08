@@ -1,0 +1,272 @@
+{"0": {
+    "doc": "About",
+    "title": "About",
+    "content": "We are a student led alumni organization dedicated to helping the next generation of college students from underserved school districts. Our goal is to spread knowledge and increase access via supplemental instruction, enrichment programs, and alumni lectures. ",
+    "url": "http://localhost:4000/just-the-class/about/",
+    "relUrl": "/about/"
+  },"1": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
+    "url": "http://localhost:4000/just-the-class/announcements/",
+    "relUrl": "/announcements/"
+  },"2": {
+    "doc": "Announcements",
+    "title": "Week 1 Announcement",
+    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . ",
+    "url": "http://localhost:4000/just-the-class/announcements/",
+    "relUrl": "/announcements/"
+  },"3": {
+    "doc": "Announcements",
+    "title": "Week 0 Announcement",
+    "content": "Apr 1 &middot; 0 min read Hello world! . ",
+    "url": "http://localhost:4000/just-the-class/announcements/",
+    "relUrl": "/announcements/"
+  },"4": {
+    "doc": "Calendar",
+    "title": "Calendar",
+    "content": " ",
+    "url": "http://localhost:4000/just-the-class/calendar/",
+    "relUrl": "/calendar/"
+  },"5": {
+    "doc": "Calendar",
+    "title": "Introduction to Java",
+    "content": "Sep 28 Java &amp; Git 1.1 Sep 29 SectionIntro to Java Solution Sep 30 Variables &amp; Objects 1.2, 2.1 Oct 1 Lab Intro to Java Oct 2 Tracing, IntLists, &amp; Recursion 2.1 HW 1 due ",
+    "url": "http://localhost:4000/just-the-class/calendar/",
+    "relUrl": "/calendar/"
+  },"6": {
+    "doc": "Calendar",
+    "title": "Basic Data Structures",
+    "content": "Oct 5 Linked Lists &amp; Encapsulation 3.1, 2.2, 2.3 Oct 6 SectionLinked Lists Solution Oct 7 Resizing Arrays 2.4, 2.5 Oct 8 Lab Resizing Arrays Oct 9 Runtime Analysis 8.1, 8.2, 8.3, 8.4 HW 2 due ",
+    "url": "http://localhost:4000/just-the-class/calendar/",
+    "relUrl": "/calendar/"
+  },"7": {
+    "doc": "Home",
+    "title": "What can we do for you?",
+    "content": "Student led organization with the goal of custom tailoring educational solutions for students in and out of the classroom. ",
+    "url": "http://localhost:4000/just-the-class/#what-can-we-do-for-you",
+    "relUrl": "/#what-can-we-do-for-you"
+  },"8": {
+    "doc": "Home",
+    "title": "Week 1 Announcement",
+    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . Announcements . ",
+    "url": "http://localhost:4000/just-the-class/",
+    "relUrl": "/"
+  },"9": {
+    "doc": "Home",
+    "title": "Just the Class",
+    "content": "Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for: . | a course calendar, | a staff page, | and a weekly schedule. | . Just the Class is built on top of Just the Docs, making it easy to extend for your own special use cases while providing sane defaults for most everything else. This means that you also get: . | automatic navigation structure, | instant, full-text search and page indexing, | and a small but powerful set of UI components and authoring utilities. | . ",
+    "url": "http://localhost:4000/just-the-class/#just-the-class",
+    "relUrl": "/#just-the-class"
+  },"10": {
+    "doc": "Home",
+    "title": "Getting Started",
+    "content": "Getting started with Just the Class is simple. | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . Continue reading to learn how to setup a development environment on your local computer. This allows you to make incremental changes without directly modifying the live website. Local development environment . Just the Class is built for Jekyll, a static site generator. View the quick start guide for more information. Just the Docs requires no special Jekyll plugins and can run on GitHub Pages’ standard Jekyll compiler. | Follow the GitHub documentation for Setting up your GitHub Pages site locally with Jekyll. | Start your local Jekyll server. $ bundle exec jekyll serve . | Point your web browser to http://localhost:4000 | Reload your web browser after making a change to preview its effect. | . For more information, refer to Just the Docs. ",
+    "url": "http://localhost:4000/just-the-class/#getting-started",
+    "relUrl": "/#getting-started"
+  },"11": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "http://localhost:4000/just-the-class/",
+    "relUrl": "/"
+  },"12": {
+    "doc": "Schedule",
+    "title": "Weekly Schedule",
+    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
+    "url": "http://localhost:4000/just-the-class/schedule/#weekly-schedule",
+    "relUrl": "/schedule/#weekly-schedule"
+  },"13": {
+    "doc": "Schedule",
+    "title": "Monday",
+    "content": ". | Guest Lecture 9:30 AM–10:30 AM zoom code TBA | Bio SI Session 11:30 AM–12:30 PM zoom code TBA | Open Hours 12:30 PM–2:00 PM zoom code TBA | . | ",
+    "url": "http://localhost:4000/just-the-class/schedule/",
+    "relUrl": "/schedule/"
+  },"14": {
+    "doc": "Schedule",
+    "title": "Tuesday",
+    "content": "| ",
+    "url": "http://localhost:4000/just-the-class/schedule/",
+    "relUrl": "/schedule/"
+  },"15": {
+    "doc": "Schedule",
+    "title": "Wednesday",
+    "content": ". | Guest Lecture 9:30 AM–10:30 AM zoom code TBA | SL SI Session 11:30 AM–12:30 PM zoom code TBA | Office Hours 12:30 PM–2:00 PM zoom code TBA | . | ",
+    "url": "http://localhost:4000/just-the-class/schedule/",
+    "relUrl": "/schedule/"
+  },"16": {
+    "doc": "Schedule",
+    "title": "Thursday",
+    "content": "| ",
+    "url": "http://localhost:4000/just-the-class/schedule/",
+    "relUrl": "/schedule/"
+  },"17": {
+    "doc": "Schedule",
+    "title": "Friday",
+    "content": ". | Guest Lecture 9:30 AM–10:30 AM zoom code TBA | Weekly Q&amp;A 11:30 AM–12:30 PM zoom code TBA | Open Hours 12:30 PM–2:00 PM zoom code TBA | . | . ",
+    "url": "http://localhost:4000/just-the-class/schedule/",
+    "relUrl": "/schedule/"
+  },"18": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "http://localhost:4000/just-the-class/schedule/",
+    "relUrl": "/schedule/"
+  },"19": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": "Staff information is stored in the _staffers directory and rendered according to the layout file, _layouts/staffer.html. ",
+    "url": "http://localhost:4000/just-the-class/staff/",
+    "relUrl": "/staff/"
+  },"20": {
+    "doc": "Staff",
+    "title": "Instructors",
+    "content": "Samin Kamal . samin.kamal@unlv.edu . Rising sophomore at UNLV; studying Public Health, Biology, and Computer Science with interests in medicine, computational epidemiology, and bioinformatics. ",
+    "url": "http://localhost:4000/just-the-class/staff/#instructors",
+    "relUrl": "/staff/#instructors"
+  },"21": {
+    "doc": "Staff",
+    "title": "Teaching Assistants",
+    "content": "Evil Kevin . me@example.com . I like teaching Computer Science! . ",
+    "url": "http://localhost:4000/just-the-class/staff/#teaching-assistants",
+    "relUrl": "/staff/#teaching-assistants"
+  },"22": {
+    "doc": "About",
+    "title": "About",
+    "content": "We are a student led alumni organization dedicated to helping the next generation of college students from underserved school districts. Our goal is to spread knowledge and increase access via supplemental instruction, enrichment programs, and alumni lectures. ",
+    "url": "http://localhost:4000/just-the-class/about/",
+    "relUrl": "/about/"
+  },"23": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
+    "url": "http://localhost:4000/just-the-class/announcements/",
+    "relUrl": "/announcements/"
+  },"24": {
+    "doc": "Announcements",
+    "title": "Week 1 Announcement",
+    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . ",
+    "url": "http://localhost:4000/just-the-class/announcements/",
+    "relUrl": "/announcements/"
+  },"25": {
+    "doc": "Announcements",
+    "title": "Week 0 Announcement",
+    "content": "Apr 1 &middot; 0 min read Hello world! . ",
+    "url": "http://localhost:4000/just-the-class/announcements/",
+    "relUrl": "/announcements/"
+  },"26": {
+    "doc": "Calendar",
+    "title": "Calendar",
+    "content": " ",
+    "url": "http://localhost:4000/just-the-class/calendar/",
+    "relUrl": "/calendar/"
+  },"27": {
+    "doc": "Calendar",
+    "title": "Introduction to Java",
+    "content": "Sep 28 Java &amp; Git 1.1 Sep 29 SectionIntro to Java Solution Sep 30 Variables &amp; Objects 1.2, 2.1 Oct 1 Lab Intro to Java Oct 2 Tracing, IntLists, &amp; Recursion 2.1 HW 1 due ",
+    "url": "http://localhost:4000/just-the-class/calendar/",
+    "relUrl": "/calendar/"
+  },"28": {
+    "doc": "Calendar",
+    "title": "Basic Data Structures",
+    "content": "Oct 5 Linked Lists &amp; Encapsulation 3.1, 2.2, 2.3 Oct 6 SectionLinked Lists Solution Oct 7 Resizing Arrays 2.4, 2.5 Oct 8 Lab Resizing Arrays Oct 9 Runtime Analysis 8.1, 8.2, 8.3, 8.4 HW 2 due ",
+    "url": "http://localhost:4000/just-the-class/calendar/",
+    "relUrl": "/calendar/"
+  },"29": {
+    "doc": "Home",
+    "title": "What can we do for you?",
+    "content": "Student led organization with the goal of custom tailoring educational solutions for students in and out of the classroom. ",
+    "url": "http://localhost:4000/just-the-class/#what-can-we-do-for-you",
+    "relUrl": "/#what-can-we-do-for-you"
+  },"30": {
+    "doc": "Home",
+    "title": "Week 1 Announcement",
+    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . Announcements . ",
+    "url": "http://localhost:4000/just-the-class/",
+    "relUrl": "/"
+  },"31": {
+    "doc": "Home",
+    "title": "Just the Class",
+    "content": "Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for: . | a course calendar, | a staff page, | and a weekly schedule. | . Just the Class is built on top of Just the Docs, making it easy to extend for your own special use cases while providing sane defaults for most everything else. This means that you also get: . | automatic navigation structure, | instant, full-text search and page indexing, | and a small but powerful set of UI components and authoring utilities. | . ",
+    "url": "http://localhost:4000/just-the-class/#just-the-class",
+    "relUrl": "/#just-the-class"
+  },"32": {
+    "doc": "Home",
+    "title": "Getting Started",
+    "content": "Getting started with Just the Class is simple. | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . Continue reading to learn how to setup a development environment on your local computer. This allows you to make incremental changes without directly modifying the live website. Local development environment . Just the Class is built for Jekyll, a static site generator. View the quick start guide for more information. Just the Docs requires no special Jekyll plugins and can run on GitHub Pages’ standard Jekyll compiler. | Follow the GitHub documentation for Setting up your GitHub Pages site locally with Jekyll. | Start your local Jekyll server. $ bundle exec jekyll serve . | Point your web browser to http://localhost:4000 | Reload your web browser after making a change to preview its effect. | . For more information, refer to Just the Docs. ",
+    "url": "http://localhost:4000/just-the-class/#getting-started",
+    "relUrl": "/#getting-started"
+  },"33": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "http://localhost:4000/just-the-class/",
+    "relUrl": "/"
+  },"34": {
+    "doc": "Schedule",
+    "title": "Weekly Schedule",
+    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
+    "url": "http://localhost:4000/just-the-class/schedule/#weekly-schedule",
+    "relUrl": "/schedule/#weekly-schedule"
+  },"35": {
+    "doc": "Schedule",
+    "title": "Monday",
+    "content": ". | Guest Lecture 9:30 AM–10:30 AM zoom code TBA | Bio SI Session 11:30 AM–12:30 PM zoom code TBA | Open Hours 12:30 PM–2:00 PM zoom code TBA | . | ",
+    "url": "http://localhost:4000/just-the-class/schedule/",
+    "relUrl": "/schedule/"
+  },"36": {
+    "doc": "Schedule",
+    "title": "Tuesday",
+    "content": "| ",
+    "url": "http://localhost:4000/just-the-class/schedule/",
+    "relUrl": "/schedule/"
+  },"37": {
+    "doc": "Schedule",
+    "title": "Wednesday",
+    "content": ". | Guest Lecture 9:30 AM–10:30 AM zoom code TBA | SL SI Session 11:30 AM–12:30 PM zoom code TBA | Office Hours 12:30 PM–2:00 PM zoom code TBA | . | ",
+    "url": "http://localhost:4000/just-the-class/schedule/",
+    "relUrl": "/schedule/"
+  },"38": {
+    "doc": "Schedule",
+    "title": "Thursday",
+    "content": "| ",
+    "url": "http://localhost:4000/just-the-class/schedule/",
+    "relUrl": "/schedule/"
+  },"39": {
+    "doc": "Schedule",
+    "title": "Friday",
+    "content": ". | Guest Lecture 9:30 AM–10:30 AM zoom code TBA | Weekly Q&amp;A 11:30 AM–12:30 PM zoom code TBA | Open Hours 12:30 PM–2:00 PM zoom code TBA | . | . ",
+    "url": "http://localhost:4000/just-the-class/schedule/",
+    "relUrl": "/schedule/"
+  },"40": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "http://localhost:4000/just-the-class/schedule/",
+    "relUrl": "/schedule/"
+  },"41": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": "Staff information is stored in the _staffers directory and rendered according to the layout file, _layouts/staffer.html. ",
+    "url": "http://localhost:4000/just-the-class/staff/",
+    "relUrl": "/staff/"
+  },"42": {
+    "doc": "Staff",
+    "title": "Instructors",
+    "content": "Samin Kamal . samin.kamal@unlv.edu . Rising sophomore at UNLV; studying Public Health, Biology, and Computer Science with interests in medicine, computational epidemiology, and bioinformatics. ",
+    "url": "http://localhost:4000/just-the-class/staff/#instructors",
+    "relUrl": "/staff/#instructors"
+  },"43": {
+    "doc": "Staff",
+    "title": "Teaching Assistants",
+    "content": "Evil Kevin . me@example.com . I like teaching Computer Science! . ",
+    "url": "http://localhost:4000/just-the-class/staff/#teaching-assistants",
+    "relUrl": "/staff/#teaching-assistants"
+  },"44": {
+    "doc": "Java & Git",
+    "title": "Java & Git",
+    "content": "public class String implements Comparable&lt;String&gt; { ... } . Term A Definition A Term B Definition B.A Definition B.B Definition B.C ",
+    "url": "http://localhost:4000/just-the-class/lessons/java-git/",
+    "relUrl": "/lessons/java-git/"
+  }
+}
